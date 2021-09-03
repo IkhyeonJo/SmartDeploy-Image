@@ -1,4 +1,4 @@
-# SmartDeploy-Image
+# WPF-SmartDeploy-Image
 
 # TCP/IP 설정
 ![1](https://user-images.githubusercontent.com/20404991/132021300-e9dcd8af-47c5-4119-82ef-148f00fa218b.PNG)
